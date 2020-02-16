@@ -14,7 +14,7 @@ Eclipse 라이브러리 미지원으로, 사운드가 나오지 않는 이슈가
 [패키지파일 다운로드](https://drive.google.com/open?id=1Kgxb6F8-OsrrK1ognz1yjvPpv7ba0fO_)를 이용하면 정상적으로 작동합니다.
 
 ### 2. 개발환경
-Processing 3.4, Sound library, 사운드는 무료음원 사용.
+Processing 3.4, Sound library, 사운드는 무료음원 사용
 
 ### 3. 게임화면
 <div>
